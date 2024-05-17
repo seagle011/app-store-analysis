@@ -52,6 +52,7 @@ The datasets used in this analysis were obtained from [Kaggle](https://www.kaggl
 - The majority of top rated apps (rating over 4) range from 2 MB to 20 MB.
 - The vast majority of apps price themselves under $10.
 - Paid apps have a relatively lower number of installs than free apps, though the difference is not as stark as one would expect.
+- When we visualize the sentiment polarity scores of user reviews for both paid and free apps, a notable trend emerges: free apps tend to attract more critical feedback, evident from the outliers clustered along the negative y-axis. Conversely, reviews for paid apps seldom exhibit extreme negativity. This observation hints at a potential disparity in app quality, suggesting that paid apps generally maintain a higher standard compared to their free counterparts.
 
 ## Visualizations:
 - ![Average Rating](https://github.com/seagle011/google-play-store-analysis/assets/106632972/3d35f56b-811a-42da-8ec3-a102055827e7)
