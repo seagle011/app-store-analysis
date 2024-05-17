@@ -54,8 +54,11 @@ The datasets used in this analysis were obtained from [Kaggle](https://www.kaggl
 - Paid apps have a relatively lower number of installs than free apps, though the difference is not as stark as one would expect.
 
 ## Visualizations:
-- ![Average Rating](https://drive.google.com/file/d/1u2e3i2nSUITiT9zA95yZkUhbIk46kjbP/view?usp=sharing)
-- ![Size vs Rating](https://drive.google.com/file/d/16n1veR6CawpIV5QABkJgwcv8ZqqucBi4/view?usp=sharing)
-- ![Price vs Rating](https://drive.google.com/file/d/1-GIw25WI0O2Q3tTyrP-CBd1Tul572J2K/view?usp=sharing)
-- ![Downloads of Paid vs Free](https://drive.google.com/file/d/1Ri9Wi9EuwVyOE7RkvLGSCOHyqw0qv85b/view?usp=sharing)
+- ![Average Rating](https://github.com/seagle011/google-play-store-analysis/assets/106632972/3d35f56b-811a-42da-8ec3-a102055827e7)
+- 
+- ![Size vs Rating](https://github.com/seagle011/google-play-store-analysis/assets/106632972/70ada903-d745-4c6d-b8e4-97fbc0598517)
+
+- ![Price vs Rating](https://github.com/seagle011/google-play-store-analysis/assets/106632972/be24ada9-d861-4084-835b-ae2300c4cd92)
+
+- ![Downloads of Paid vs Free](https://github.com/seagle011/google-play-store-analysis/assets/106632972/0bd9a59a-5b53-46de-bf2d-3c3cb118530e)
 
