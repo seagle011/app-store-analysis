@@ -62,4 +62,6 @@ The datasets used in this analysis were obtained from [Kaggle](https://www.kaggl
 - ![Price vs Rating](https://github.com/seagle011/google-play-store-analysis/assets/106632972/be24ada9-d861-4084-835b-ae2300c4cd92)
 
 - ![Downloads of Paid vs Free](https://github.com/seagle011/google-play-store-analysis/assets/106632972/0bd9a59a-5b53-46de-bf2d-3c3cb118530e)
+- ![Sentiment Polarity Distribution](https://github.com/seagle011/google-play-store-analysis/assets/106632972/46f4fa00-4525-4afe-9b52-b5995bd070e2)
+
 
